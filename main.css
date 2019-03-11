@@ -13599,7 +13599,6 @@ footer .social a .fa.fa-twitter {
 }
 
 footer .footer-top {
-    background: url(../img/bg.jpg) center center repeat;
     padding: 60px 0px 0px;
 }
 
@@ -13971,7 +13970,6 @@ footer .footer-nav a+a {
 
 .home-news {
     padding: 50px 0;
-    background: url(../img/bg.jpg) center center repeat;
 }
 
 .hot-news .row {
@@ -14196,7 +14194,6 @@ footer .footer-nav a+a {
 }
 
 .home-video {
-    background: url(../img/bg.jpg) center center repeat;
     padding: 50px 0;
 }
 
@@ -14395,7 +14392,6 @@ footer .footer-nav a+a {
 }
 
 .home-award {
-    background: url(../img/bg.jpg) center center repeat;
     padding: 50px 0;
 }
 
@@ -14685,7 +14681,6 @@ footer .footer-nav a+a {
 }
 
 .about-section1 {
-    background: url(../img/about/bg1.png) center center no-repeat;
     background-size: contain;
 }
 
@@ -14731,7 +14726,6 @@ footer .footer-nav a+a {
 }
 
 .about-section2 {
-    background: url(../img/bg.jpg) center center repeat;
 }
 
 .about-section3 .service-col {
@@ -14777,7 +14771,6 @@ footer .footer-nav a+a {
 }
 
 .about-section4 {
-    background: url(../img/bg.jpg) center center repeat;
 }
 
 .about-section4 .vision-list .col-12 {
@@ -14818,11 +14811,9 @@ footer .footer-nav a+a {
 }
 
 .about-section6 {
-    background: url(../img/bg2.jpg) center center repeat;
 }
 
 .history-wrap .history-year {
-    background: url(../img/about/bg2.jpg) center center no-repeat;
     background-size: cover;
     padding: 50px 80px;
 }
@@ -15706,7 +15697,6 @@ footer .footer-nav a+a {
 
 .project-section1 {
     padding-top: 20px;
-    background: url(../img/project/bg1.png) center bottom no-repeat;
 }
 
 .project-section1 .project-content {
@@ -15736,7 +15726,6 @@ footer .footer-nav a+a {
 }
 
 .project-section3 {
-    background: url(../img/bg.jpg) center center repeat;
     padding: 0;
 }
 
@@ -15749,7 +15738,6 @@ footer .footer-nav a+a {
 }
 
 .project-section4 {
-    background: url(../img/bg.jpg) center center repeat;
 }
 
 .project-section6 {
@@ -16244,7 +16232,6 @@ footer .footer-nav a+a {
 }
 
 .career-section2 {
-    background: url(../img/bg.jpg) center center repeat;
 }
 
 .career-section2 .policy-list .policy {
@@ -16389,7 +16376,6 @@ footer .footer-nav a+a {
 
 .career-section4 {
     padding: 60px 0;
-    background: #e6e6e6 url(../img/cbg.png) center center no-repeat;
     background-size: cover;
 }
 
